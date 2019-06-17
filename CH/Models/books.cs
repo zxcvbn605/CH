@@ -5,7 +5,7 @@ using System.Web;
 using System.Data.Entity;
 
 namespace CH.Models
-{
+{ 
     public class Books
     {
         public int ID { get; set; }
